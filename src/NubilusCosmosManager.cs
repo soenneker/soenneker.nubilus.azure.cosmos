@@ -3,7 +3,7 @@
 namespace Soenneker.Nubilus.Azure.Cosmos;
 
 /// <inheritdoc cref="INubilusCosmosManager"/>
-public class NubilusCosmosManager: INubilusCosmosManager
+public sealed class NubilusCosmosManager: INubilusCosmosManager
 {
     public NubilusCosmosManager()
     {
