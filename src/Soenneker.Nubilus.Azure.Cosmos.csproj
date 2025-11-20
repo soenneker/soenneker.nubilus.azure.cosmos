@@ -42,6 +42,6 @@
 
     <ItemGroup>
         <PackageReference Include="Azure.ResourceManager.CosmosDB" Version="1.3.2" />
-        <PackageReference Include="Soenneker.Azure.Utils.ArmClientUtil" Version="4.0.159" />
+        <PackageReference Include="Soenneker.Azure.Utils.ArmClientUtil" Version="4.0.161" />
     </ItemGroup>
 </Project>
