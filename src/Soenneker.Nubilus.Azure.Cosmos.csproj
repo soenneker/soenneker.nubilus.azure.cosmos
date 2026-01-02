@@ -14,7 +14,7 @@
         <AssemblyName>Soenneker.Nubilus.Azure.Cosmos</AssemblyName>
         <PackageId>Soenneker.Nubilus.Azure.Cosmos</PackageId>
         <PackageTags>nubilus azure cosmos armclient resources management resource nubiluscosmosmanager util csharp dotnet c# .net</PackageTags>
-        <Copyright>Copyright © 2025 Jake Soenneker</Copyright>
+        <Copyright>Copyright © 2025-2026 Jake Soenneker</Copyright>
         <Authors>Jake Soenneker</Authors>
         <Company>https://soenneker.com</Company>
         <GenerateDocumentationFile>true</GenerateDocumentationFile>
