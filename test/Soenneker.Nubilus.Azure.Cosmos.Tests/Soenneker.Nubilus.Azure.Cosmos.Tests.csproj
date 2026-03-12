@@ -27,7 +27,7 @@
     </ItemGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\..\src\Soenneker.Nubilus.Azure.Cosmos.csproj" />
+        <ProjectReference Include="..\..\src\Soenneker.Nubilus.Azure.Cosmos\Soenneker.Nubilus.Azure.Cosmos.csproj" />
     </ItemGroup>
 
     <ItemGroup>
