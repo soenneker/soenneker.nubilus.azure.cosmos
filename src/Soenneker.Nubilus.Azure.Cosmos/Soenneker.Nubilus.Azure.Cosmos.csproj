@@ -7,7 +7,7 @@
     </PropertyGroup>
 
     <PropertyGroup>
-        <Description>An Azure Resource Manager for Azure Cosmos DB instances</Description>
+        <Description>Resolves existing Azure Cosmos DB accounts through Azure Resource Manager.</Description>
         <Version Condition="'$(BUILD_VERSION)' == ''">4.0.0</Version>
         <Version Condition="'$(BUILD_VERSION)' != ''">$(BUILD_VERSION)</Version>
         <AssemblyName>Soenneker.Nubilus.Azure.Cosmos</AssemblyName>

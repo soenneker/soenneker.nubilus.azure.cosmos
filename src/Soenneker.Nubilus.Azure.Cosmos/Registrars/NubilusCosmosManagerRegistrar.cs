@@ -6,7 +6,7 @@ using Soenneker.Nubilus.Azure.Cosmos.Abstract;
 namespace Soenneker.Nubilus.Azure.Cosmos.Registrars;
 
 /// <summary>
-/// An Azure Resource Manager for Azure Cosmos DB instances
+/// Registers Azure Cosmos DB resource management services.
 /// </summary>
 public static class NubilusCosmosManagerRegistrar
 {
