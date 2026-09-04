@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace Soenneker.Nubilus.Azure.Cosmos;
 
+/// <inheritdoc cref="INubilusCosmosManager" />
 public sealed class NubilusCosmosManager : INubilusCosmosManager
 {
     private readonly IArmClientUtil _armClientUtil;
