@@ -50,6 +50,6 @@
         <PackageReference Include="Soenneker.Azure.Utils.ArmClientUtil" Version="11.0.442" />
     </ItemGroup>
     <ItemGroup>
-        <PackageReference Include="Azure.Core" Version="1.63.0" />
+        <PackageReference Include="Azure.Core" Version="1.64.0" />
     </ItemGroup>
 </Project>
